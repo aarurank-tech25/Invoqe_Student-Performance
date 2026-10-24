@@ -1,0 +1,226 @@
+[
+  {
+    "feature": "num__absences",
+    "importance": 0.18829520287726312
+  },
+  {
+    "feature": "num__failures",
+    "importance": 0.1424477784559502
+  },
+  {
+    "feature": "num__health",
+    "importance": 0.05169069109878528
+  },
+  {
+    "feature": "num__goout",
+    "importance": 0.04928859001390948
+  },
+  {
+    "feature": "num__age",
+    "importance": 0.040329240409833524
+  },
+  {
+    "feature": "num__studytime",
+    "importance": 0.032119538525151314
+  },
+  {
+    "feature": "num__freetime",
+    "importance": 0.02976722466169346
+  },
+  {
+    "feature": "num__Walc",
+    "importance": 0.026210223652338934
+  },
+  {
+    "feature": "num__Fedu",
+    "importance": 0.025267683322381464
+  },
+  {
+    "feature": "num__traveltime",
+    "importance": 0.024595354126929335
+  },
+  {
+    "feature": "num__famrel",
+    "importance": 0.024402505783766893
+  },
+  {
+    "feature": "num__Medu",
+    "importance": 0.02382587411732577
+  },
+  {
+    "feature": "cat__Mjob_services",
+    "importance": 0.018007814897416572
+  },
+  {
+    "feature": "cat__guardian_other",
+    "importance": 0.015660516685468025
+  },
+  {
+    "feature": "cat__schoolsup_yes",
+    "importance": 0.015165051721585374
+  },
+  {
+    "feature": "cat__Mjob_at_home",
+    "importance": 0.01426003688990331
+  },
+  {
+    "feature": "cat__romantic_yes",
+    "importance": 0.012663971829591615
+  },
+  {
+    "feature": "cat__Fjob_teacher",
+    "importance": 0.012526104401852351
+  },
+  {
+    "feature": "num__Dalc",
+    "importance": 0.011762060391376082
+  },
+  {
+    "feature": "cat__higher_no",
+    "importance": 0.011311456940576874
+  },
+  {
+    "feature": "cat__romantic_no",
+    "importance": 0.010559458203807659
+  },
+  {
+    "feature": "cat__schoolsup_no",
+    "importance": 0.009640715620562871
+  },
+  {
+    "feature": "cat__higher_yes",
+    "importance": 0.009257584140477957
+  },
+  {
+    "feature": "cat__reason_course",
+    "importance": 0.009232342973217334
+  },
+  {
+    "feature": "cat__internet_no",
+    "importance": 0.009037901068755657
+  },
+  {
+    "feature": "cat__sex_M",
+    "importance": 0.008988985057001362
+  },
+  {
+    "feature": "cat__reason_reputation",
+    "importance": 0.008713977685356698
+  },
+  {
+    "feature": "cat__Fjob_at_home",
+    "importance": 0.00826085134447261
+  },
+  {
+    "feature": "cat__reason_home",
+    "importance": 0.007550012963093958
+  },
+  {
+    "feature": "cat__Mjob_health",
+    "importance": 0.007504369460106191
+  },
+  {
+    "feature": "cat__activities_no",
+    "importance": 0.007454014776642181
+  },
+  {
+    "feature": "cat__famsup_yes",
+    "importance": 0.0074338694603618884
+  },
+  {
+    "feature": "cat__famsup_no",
+    "importance": 0.0069177129718416604
+  },
+  {
+    "feature": "cat__activities_yes",
+    "importance": 0.006827525408029433
+  },
+  {
+    "feature": "cat__Mjob_other",
+    "importance": 0.006729058989117043
+  },
+  {
+    "feature": "cat__nursery_yes",
+    "importance": 0.006562963996626636
+  },
+  {
+    "feature": "cat__paid_no",
+    "importance": 0.0063954953944673956
+  },
+  {
+    "feature": "cat__Fjob_other",
+    "importance": 0.0063256764172132975
+  },
+  {
+    "feature": "cat__famsize_LE3",
+    "importance": 0.006296328525387496
+  },
+  {
+    "feature": "cat__guardian_father",
+    "importance": 0.00617132931741388
+  },
+  {
+    "feature": "cat__sex_F",
+    "importance": 0.006168266515807923
+  },
+  {
+    "feature": "cat__internet_yes",
+    "importance": 0.005975114816870528
+  },
+  {
+    "feature": "cat__paid_yes",
+    "importance": 0.005723754043144093
+  },
+  {
+    "feature": "cat__guardian_mother",
+    "importance": 0.005589043231750239
+  },
+  {
+    "feature": "cat__Pstatus_A",
+    "importance": 0.0052967960752883635
+  },
+  {
+    "feature": "cat__Fjob_services",
+    "importance": 0.005167490564985432
+  },
+  {
+    "feature": "cat__Mjob_teacher",
+    "importance": 0.005065430581878545
+  },
+  {
+    "feature": "cat__Pstatus_T",
+    "importance": 0.00484977790874656
+  },
+  {
+    "feature": "cat__reason_other",
+    "importance": 0.00461610492982102
+  },
+  {
+    "feature": "cat__school_GP",
+    "importance": 0.004415164560655146
+  },
+  {
+    "feature": "cat__famsize_GT3",
+    "importance": 0.004284200529838343
+  },
+  {
+    "feature": "cat__nursery_no",
+    "importance": 0.004070522033189836
+  },
+  {
+    "feature": "cat__address_R",
+    "importance": 0.004026081294425848
+  },
+  {
+    "feature": "cat__school_MS",
+    "importance": 0.003775232899732698
+  },
+  {
+    "feature": "cat__address_U",
+    "importance": 0.0035860124862118715
+  },
+  {
+    "feature": "cat__Fjob_health",
+    "importance": 0.0019339129506014256
+  }
+]
